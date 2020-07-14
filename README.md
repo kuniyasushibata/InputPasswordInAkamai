@@ -1,0 +1,2 @@
+# InputPasswordInAkamai
+Akamaiへパスワード入力する
